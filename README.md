@@ -6,9 +6,7 @@ Classification The Oxford-IIIT Pet Dataset with ResNet-50, VGG 16, and VGG 19 mo
  - models: ResNet, VGG 16, and VGG 19
  - you can download Oxford III Pet Dataset from https://www.kaggle.com/datasets/tanlikesmath/the-oxfordiiit-pet-dataset
  - A 37 category pet dataset with roughly 200 images for each class
-\
-\
-\
+
 
 ## Comparison of accuracy of models
 
