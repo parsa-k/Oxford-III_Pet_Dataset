@@ -18,7 +18,7 @@ Classification The Oxford-IIIT Pet Dataset with ResNet-50, VGG 16, and VGG 19 mo
 ### To view additional information and discussions, open the file for each network
 
 
-|Column 1|Column 2|Column 3|
+|MODEL|ResNet|VGG 16|
 |---|---|---|
 |Row 1 Column1| Row 1 Column 2| Row 1 Column 3|
 |Row 2 Column1| Row 2 Column 2| Row 2 Column 3|
