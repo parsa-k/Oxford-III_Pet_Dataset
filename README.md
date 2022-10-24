@@ -11,15 +11,10 @@ Classification The Oxford-IIIT Pet Dataset with ResNet-50, VGG 16, and VGG 19 mo
 ## Comparison of accuracy of models
 
 |MODEL|ResNet|VGG 16|VGG 19|
-|---|---|---|---|
+|:---:|:---:|:---:|:---:|
 |ACCURACY| 88.22%| 79.42%| 80.70%|
 
 
 ### To view additional information and discussions, open the file for each network
-
-
-|MODEL|ResNet|VGG 16|
-|---|---|---|
-|Row 1 Column1| Row 1 Column 2| Row 1 Column 3|
 
 
